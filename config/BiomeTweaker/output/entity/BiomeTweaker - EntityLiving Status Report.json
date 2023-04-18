@@ -1,0 +1,1248 @@
+//Yeah, it's a doozy.
+[
+  {
+    "Name": "ElderGuardian",
+    "Registry ID": "minecraft:elder_guardian",
+    "Class": "net.minecraft.entity.monster.EntityElderGuardian"
+  },
+  {
+    "Name": "WitherSkeleton",
+    "Registry ID": "minecraft:wither_skeleton",
+    "Class": "net.minecraft.entity.monster.EntityWitherSkeleton"
+  },
+  {
+    "Name": "Stray",
+    "Registry ID": "minecraft:stray",
+    "Class": "net.minecraft.entity.monster.EntityStray"
+  },
+  {
+    "Name": "Husk",
+    "Registry ID": "minecraft:husk",
+    "Class": "net.minecraft.entity.monster.EntityHusk"
+  },
+  {
+    "Name": "ZombieVillager",
+    "Registry ID": "minecraft:zombie_villager",
+    "Class": "net.minecraft.entity.monster.EntityZombieVillager"
+  },
+  {
+    "Name": "SkeletonHorse",
+    "Registry ID": "minecraft:skeleton_horse",
+    "Class": "net.minecraft.entity.passive.EntitySkeletonHorse"
+  },
+  {
+    "Name": "ZombieHorse",
+    "Registry ID": "minecraft:zombie_horse",
+    "Class": "net.minecraft.entity.passive.EntityZombieHorse"
+  },
+  {
+    "Name": "Donkey",
+    "Registry ID": "minecraft:donkey",
+    "Class": "net.minecraft.entity.passive.EntityDonkey"
+  },
+  {
+    "Name": "Mule",
+    "Registry ID": "minecraft:mule",
+    "Class": "net.minecraft.entity.passive.EntityMule"
+  },
+  {
+    "Name": "EvocationIllager",
+    "Registry ID": "minecraft:evocation_illager",
+    "Class": "net.minecraft.entity.monster.EntityEvoker"
+  },
+  {
+    "Name": "Vex",
+    "Registry ID": "minecraft:vex",
+    "Class": "net.minecraft.entity.monster.EntityVex"
+  },
+  {
+    "Name": "VindicationIllager",
+    "Registry ID": "minecraft:vindication_illager",
+    "Class": "net.minecraft.entity.monster.EntityVindicator"
+  },
+  {
+    "Name": "IllusionIllager",
+    "Registry ID": "minecraft:illusion_illager",
+    "Class": "net.minecraft.entity.monster.EntityIllusionIllager"
+  },
+  {
+    "Name": "Creeper",
+    "Registry ID": "minecraft:creeper",
+    "Class": "net.minecraft.entity.monster.EntityCreeper"
+  },
+  {
+    "Name": "Skeleton",
+    "Registry ID": "minecraft:skeleton",
+    "Class": "net.minecraft.entity.monster.EntitySkeleton"
+  },
+  {
+    "Name": "Spider",
+    "Registry ID": "minecraft:spider",
+    "Class": "net.minecraft.entity.monster.EntitySpider"
+  },
+  {
+    "Name": "Giant",
+    "Registry ID": "minecraft:giant",
+    "Class": "net.minecraft.entity.monster.EntityGiantZombie"
+  },
+  {
+    "Name": "Zombie",
+    "Registry ID": "minecraft:zombie",
+    "Class": "net.minecraft.entity.monster.EntityZombie"
+  },
+  {
+    "Name": "Slime",
+    "Registry ID": "minecraft:slime",
+    "Class": "net.minecraft.entity.monster.EntitySlime"
+  },
+  {
+    "Name": "Ghast",
+    "Registry ID": "minecraft:ghast",
+    "Class": "net.minecraft.entity.monster.EntityGhast"
+  },
+  {
+    "Name": "PigZombie",
+    "Registry ID": "minecraft:zombie_pigman",
+    "Class": "net.minecraft.entity.monster.EntityPigZombie"
+  },
+  {
+    "Name": "Enderman",
+    "Registry ID": "minecraft:enderman",
+    "Class": "net.minecraft.entity.monster.EntityEnderman"
+  },
+  {
+    "Name": "CaveSpider",
+    "Registry ID": "minecraft:cave_spider",
+    "Class": "net.minecraft.entity.monster.EntityCaveSpider"
+  },
+  {
+    "Name": "Silverfish",
+    "Registry ID": "minecraft:silverfish",
+    "Class": "net.minecraft.entity.monster.EntitySilverfish"
+  },
+  {
+    "Name": "Blaze",
+    "Registry ID": "minecraft:blaze",
+    "Class": "net.minecraft.entity.monster.EntityBlaze"
+  },
+  {
+    "Name": "LavaSlime",
+    "Registry ID": "minecraft:magma_cube",
+    "Class": "net.minecraft.entity.monster.EntityMagmaCube"
+  },
+  {
+    "Name": "EnderDragon",
+    "Registry ID": "minecraft:ender_dragon",
+    "Class": "net.minecraft.entity.boss.EntityDragon"
+  },
+  {
+    "Name": "WitherBoss",
+    "Registry ID": "minecraft:wither",
+    "Class": "net.minecraft.entity.boss.EntityWither"
+  },
+  {
+    "Name": "Bat",
+    "Registry ID": "minecraft:bat",
+    "Class": "net.minecraft.entity.passive.EntityBat"
+  },
+  {
+    "Name": "Witch",
+    "Registry ID": "minecraft:witch",
+    "Class": "net.minecraft.entity.monster.EntityWitch"
+  },
+  {
+    "Name": "Endermite",
+    "Registry ID": "minecraft:endermite",
+    "Class": "net.minecraft.entity.monster.EntityEndermite"
+  },
+  {
+    "Name": "Guardian",
+    "Registry ID": "minecraft:guardian",
+    "Class": "net.minecraft.entity.monster.EntityGuardian"
+  },
+  {
+    "Name": "Shulker",
+    "Registry ID": "minecraft:shulker",
+    "Class": "net.minecraft.entity.monster.EntityShulker"
+  },
+  {
+    "Name": "Pig",
+    "Registry ID": "minecraft:pig",
+    "Class": "net.minecraft.entity.passive.EntityPig"
+  },
+  {
+    "Name": "Sheep",
+    "Registry ID": "minecraft:sheep",
+    "Class": "net.minecraft.entity.passive.EntitySheep"
+  },
+  {
+    "Name": "Cow",
+    "Registry ID": "minecraft:cow",
+    "Class": "net.minecraft.entity.passive.EntityCow"
+  },
+  {
+    "Name": "Chicken",
+    "Registry ID": "minecraft:chicken",
+    "Class": "net.minecraft.entity.passive.EntityChicken"
+  },
+  {
+    "Name": "Squid",
+    "Registry ID": "minecraft:squid",
+    "Class": "net.minecraft.entity.passive.EntitySquid"
+  },
+  {
+    "Name": "Wolf",
+    "Registry ID": "minecraft:wolf",
+    "Class": "net.minecraft.entity.passive.EntityWolf"
+  },
+  {
+    "Name": "MushroomCow",
+    "Registry ID": "minecraft:mooshroom",
+    "Class": "net.minecraft.entity.passive.EntityMooshroom"
+  },
+  {
+    "Name": "SnowMan",
+    "Registry ID": "minecraft:snowman",
+    "Class": "net.minecraft.entity.monster.EntitySnowman"
+  },
+  {
+    "Name": "Ozelot",
+    "Registry ID": "minecraft:ocelot",
+    "Class": "net.minecraft.entity.passive.EntityOcelot"
+  },
+  {
+    "Name": "VillagerGolem",
+    "Registry ID": "minecraft:villager_golem",
+    "Class": "net.minecraft.entity.monster.EntityIronGolem"
+  },
+  {
+    "Name": "Horse",
+    "Registry ID": "minecraft:horse",
+    "Class": "net.minecraft.entity.passive.EntityHorse"
+  },
+  {
+    "Name": "Rabbit",
+    "Registry ID": "minecraft:rabbit",
+    "Class": "net.minecraft.entity.passive.EntityRabbit"
+  },
+  {
+    "Name": "PolarBear",
+    "Registry ID": "minecraft:polar_bear",
+    "Class": "net.minecraft.entity.monster.EntityPolarBear"
+  },
+  {
+    "Name": "Llama",
+    "Registry ID": "minecraft:llama",
+    "Class": "net.minecraft.entity.passive.EntityLlama"
+  },
+  {
+    "Name": "Parrot",
+    "Registry ID": "minecraft:parrot",
+    "Class": "net.minecraft.entity.passive.EntityParrot"
+  },
+  {
+    "Name": "Villager",
+    "Registry ID": "minecraft:villager",
+    "Class": "net.minecraft.entity.passive.EntityVillager"
+  },
+  {
+    "Name": "quark:archaeologist",
+    "Registry ID": "quark:archaeologist",
+    "Class": "vazkii.quark.world.entity.EntityArchaeologist"
+  },
+  {
+    "Name": "quark:dweller",
+    "Registry ID": "quark:dweller",
+    "Class": "vazkii.quark.world.entity.EntityDweller"
+  },
+  {
+    "Name": "quark:ashen",
+    "Registry ID": "quark:ashen",
+    "Class": "vazkii.quark.world.entity.EntityAshen"
+  },
+  {
+    "Name": "quark:frog",
+    "Registry ID": "quark:frog",
+    "Class": "vazkii.quark.world.entity.EntityFrog"
+  },
+  {
+    "Name": "quark:pirate",
+    "Registry ID": "quark:pirate",
+    "Class": "vazkii.quark.world.entity.EntityPirate"
+  },
+  {
+    "Name": "quark:crab",
+    "Registry ID": "quark:crab",
+    "Class": "vazkii.quark.world.entity.EntityCrab"
+  },
+  {
+    "Name": "quark:wraith",
+    "Registry ID": "quark:wraith",
+    "Class": "vazkii.quark.world.entity.EntityWraith"
+  },
+  {
+    "Name": "quark:leash_knot",
+    "Registry ID": "quark:leash_knot",
+    "Class": "vazkii.quark.decoration.entity.EntityLeashKnot2TheKnotting"
+  },
+  {
+    "Name": "wasp",
+    "Registry ID": "biomesoplenty:wasp",
+    "Class": "biomesoplenty.common.entities.EntityWasp"
+  },
+  {
+    "Name": "robot",
+    "Registry ID": "cyclicmagic:robot",
+    "Class": "com.lothrazar.cyclicmagic.item.crashtestdummy.EntityRobot"
+  },
+  {
+    "Name": "openblocks.luggage",
+    "Registry ID": "openblocks:luggage",
+    "Class": "openblocks.common.entity.EntityLuggage"
+  },
+  {
+    "Name": "openblocks.mini_me",
+    "Registry ID": "openblocks:mini_me",
+    "Class": "openblocks.common.entity.EntityMiniMe"
+  },
+  {
+    "Name": "raider",
+    "Registry ID": "raiders:raider",
+    "Class": "com.gendeathrow.pmobs.entity.mob.EntityRaider"
+  },
+  {
+    "Name": "brute",
+    "Registry ID": "raiders:brute",
+    "Class": "com.gendeathrow.pmobs.entity.mob.EntityBrute"
+  },
+  {
+    "Name": "witch",
+    "Registry ID": "raiders:witch",
+    "Class": "com.gendeathrow.pmobs.entity.mob.EntityRaiderWitch"
+  },
+  {
+    "Name": "tweaker",
+    "Registry ID": "raiders:tweaker",
+    "Class": "com.gendeathrow.pmobs.entity.mob.EntityTweaker"
+  },
+  {
+    "Name": "pyromaniac",
+    "Registry ID": "raiders:pyromaniac",
+    "Class": "com.gendeathrow.pmobs.entity.mob.EntityPyromaniac"
+  },
+  {
+    "Name": "ranger",
+    "Registry ID": "raiders:ranger",
+    "Class": "com.gendeathrow.pmobs.entity.mob.EntityRanger"
+  },
+  {
+    "Name": "spirit",
+    "Registry ID": "randomthings:spirit",
+    "Class": "lumien.randomthings.entitys.EntitySpirit"
+  },
+  {
+    "Name": "goldenChicken",
+    "Registry ID": "randomthings:goldenchicken",
+    "Class": "lumien.randomthings.entitys.EntityGoldenChicken"
+  },
+  {
+    "Name": "peeper",
+    "Registry ID": "better_diving:peeper",
+    "Class": "meldexun.better_diving.entity.EntityPeeper"
+  },
+  {
+    "Name": "bladderfish",
+    "Registry ID": "better_diving:bladderfish",
+    "Class": "meldexun.better_diving.entity.EntityBladderfish"
+  },
+  {
+    "Name": "garryfish",
+    "Registry ID": "better_diving:garryfish",
+    "Class": "meldexun.better_diving.entity.EntityGarryfish"
+  },
+  {
+    "Name": "holefish",
+    "Registry ID": "better_diving:holefish",
+    "Class": "meldexun.better_diving.entity.EntityHolefish"
+  },
+  {
+    "Name": "boomerang",
+    "Registry ID": "better_diving:boomerang",
+    "Class": "meldexun.better_diving.entity.EntityBoomerang"
+  },
+  {
+    "Name": "tconstruct.blueslime",
+    "Registry ID": "tconstruct:blueslime",
+    "Class": "slimeknights.tconstruct.world.entity.EntityBlueSlime"
+  },
+  {
+    "Name": "imp",
+    "Registry ID": "natura:imp",
+    "Class": "com.progwml6.natura.entities.entity.passive.EntityImp"
+  },
+  {
+    "Name": "nitrocreeper",
+    "Registry ID": "natura:nitrocreeper",
+    "Class": "com.progwml6.natura.entities.entity.monster.EntityNitroCreeper"
+  },
+  {
+    "Name": "Drone",
+    "Registry ID": "pneumaticcraft:drone",
+    "Class": "me.desht.pneumaticcraft.common.entity.living.EntityDrone"
+  },
+  {
+    "Name": "logisticDrone",
+    "Registry ID": "pneumaticcraft:logistic_drone",
+    "Class": "me.desht.pneumaticcraft.common.entity.living.EntityLogisticsDrone"
+  },
+  {
+    "Name": "harvestingDrone",
+    "Registry ID": "pneumaticcraft:harvesting_drone",
+    "Class": "me.desht.pneumaticcraft.common.entity.living.EntityHarvestingDrone"
+  },
+  {
+    "Name": "programmableController",
+    "Registry ID": "pneumaticcraft:programmable_controller",
+    "Class": "me.desht.pneumaticcraft.common.entity.EntityProgrammableController"
+  },
+  {
+    "Name": "betteranimalsplus.brownbear",
+    "Registry ID": "betteranimalsplus:brownbear",
+    "Class": "its_meow.betteranimalsplus.common.entity.EntityBear"
+  },
+  {
+    "Name": "betteranimalsplus.blackbear",
+    "Registry ID": "betteranimalsplus:blackbear",
+    "Class": "its_meow.betteranimalsplus.common.entity.EntityBearNeutral"
+  },
+  {
+    "Name": "betteranimalsplus.deer",
+    "Registry ID": "betteranimalsplus:deer",
+    "Class": "its_meow.betteranimalsplus.common.entity.EntityDeer"
+  },
+  {
+    "Name": "betteranimalsplus.lammergeier",
+    "Registry ID": "betteranimalsplus:lammergeier",
+    "Class": "its_meow.betteranimalsplus.common.entity.EntityLammergeier"
+  },
+  {
+    "Name": "betteranimalsplus.feralwolf",
+    "Registry ID": "betteranimalsplus:feralwolf",
+    "Class": "its_meow.betteranimalsplus.common.entity.EntityFeralWolf"
+  },
+  {
+    "Name": "betteranimalsplus.coyote",
+    "Registry ID": "betteranimalsplus:coyote",
+    "Class": "its_meow.betteranimalsplus.common.entity.EntityCoyote"
+  },
+  {
+    "Name": "betteranimalsplus.fox",
+    "Registry ID": "betteranimalsplus:fox",
+    "Class": "its_meow.betteranimalsplus.common.entity.EntityFox"
+  },
+  {
+    "Name": "betteranimalsplus.tarantula",
+    "Registry ID": "betteranimalsplus:tarantula",
+    "Class": "its_meow.betteranimalsplus.common.entity.EntityTarantula"
+  },
+  {
+    "Name": "betteranimalsplus.hirschgeist",
+    "Registry ID": "betteranimalsplus:hirschgeist",
+    "Class": "its_meow.betteranimalsplus.common.entity.miniboss.hirschgeist.EntityHirschgeist"
+  },
+  {
+    "Name": "betteranimalsplus.goat",
+    "Registry ID": "betteranimalsplus:goat",
+    "Class": "its_meow.betteranimalsplus.common.entity.EntityGoat"
+  },
+  {
+    "Name": "betteranimalsplus.jellyfish",
+    "Registry ID": "betteranimalsplus:jellyfish",
+    "Class": "its_meow.betteranimalsplus.common.entity.EntityJellyfish"
+  },
+  {
+    "Name": "betteranimalsplus.pheasant",
+    "Registry ID": "betteranimalsplus:pheasant",
+    "Class": "its_meow.betteranimalsplus.common.entity.EntityPheasant"
+  },
+  {
+    "Name": "betteranimalsplus.reindeer",
+    "Registry ID": "betteranimalsplus:reindeer",
+    "Class": "its_meow.betteranimalsplus.common.entity.EntityReindeer"
+  },
+  {
+    "Name": "betteranimalsplus.boar",
+    "Registry ID": "betteranimalsplus:boar",
+    "Class": "its_meow.betteranimalsplus.common.entity.EntityBoar"
+  },
+  {
+    "Name": "betteranimalsplus.squirrel",
+    "Registry ID": "betteranimalsplus:squirrel",
+    "Class": "its_meow.betteranimalsplus.common.entity.EntitySquirrel"
+  },
+  {
+    "Name": "betteranimalsplus.songbird",
+    "Registry ID": "betteranimalsplus:songbird",
+    "Class": "its_meow.betteranimalsplus.common.entity.EntitySongbird"
+  },
+  {
+    "Name": "betteranimalsplus.badger",
+    "Registry ID": "betteranimalsplus:badger",
+    "Class": "its_meow.betteranimalsplus.common.entity.EntityBadger"
+  },
+  {
+    "Name": "betteranimalsplus.lamprey",
+    "Registry ID": "betteranimalsplus:lamprey",
+    "Class": "its_meow.betteranimalsplus.common.entity.EntityLamprey"
+  },
+  {
+    "Name": "betteranimalsplus.nautilus",
+    "Registry ID": "betteranimalsplus:nautilus",
+    "Class": "its_meow.betteranimalsplus.common.entity.EntityNautilus"
+  },
+  {
+    "Name": "betteranimalsplus.crab",
+    "Registry ID": "betteranimalsplus:crab",
+    "Class": "its_meow.betteranimalsplus.common.entity.EntityCrab"
+  },
+  {
+    "Name": "betteranimalsplus.horseshoecrab",
+    "Registry ID": "betteranimalsplus:horseshoecrab",
+    "Class": "its_meow.betteranimalsplus.common.entity.EntityHorseshoeCrab"
+  },
+  {
+    "Name": "betteranimalsplus.shark",
+    "Registry ID": "betteranimalsplus:shark",
+    "Class": "its_meow.betteranimalsplus.common.entity.EntityShark"
+  },
+  {
+    "Name": "betteranimalsplus.moose",
+    "Registry ID": "betteranimalsplus:moose",
+    "Class": "its_meow.betteranimalsplus.common.entity.EntityMoose"
+  },
+  {
+    "Name": "betteranimalsplus.turkey",
+    "Registry ID": "betteranimalsplus:turkey",
+    "Class": "its_meow.betteranimalsplus.common.entity.EntityTurkey"
+  },
+  {
+    "Name": "betteranimalsplus.zotzpyre",
+    "Registry ID": "betteranimalsplus:zotzpyre",
+    "Class": "its_meow.betteranimalsplus.common.entity.EntityZotzpyre"
+  },
+  {
+    "Name": "betteranimalsplus.bobbit_worm",
+    "Registry ID": "betteranimalsplus:bobbit_worm",
+    "Class": "its_meow.betteranimalsplus.common.entity.EntityBobbitWorm"
+  },
+  {
+    "Name": "betteranimalsplus.goose",
+    "Registry ID": "betteranimalsplus:goose",
+    "Class": "its_meow.betteranimalsplus.common.entity.EntityGoose"
+  },
+  {
+    "Name": "betteranimalsplus.eel_freshwater",
+    "Registry ID": "betteranimalsplus:eel_freshwater",
+    "Class": "its_meow.betteranimalsplus.common.entity.EntityFreshwaterEel"
+  },
+  {
+    "Name": "betteranimalsplus.eel_saltwater",
+    "Registry ID": "betteranimalsplus:eel_saltwater",
+    "Class": "its_meow.betteranimalsplus.common.entity.EntitySaltwaterEel"
+  },
+  {
+    "Name": "betteranimalsplus.whale",
+    "Registry ID": "betteranimalsplus:whale",
+    "Class": "its_meow.betteranimalsplus.common.entity.EntityWhale"
+  },
+  {
+    "Name": "betteranimalsplus.walrus",
+    "Registry ID": "betteranimalsplus:walrus",
+    "Class": "its_meow.betteranimalsplus.common.entity.EntityWalrus"
+  },
+  {
+    "Name": "betteranimalsplus.kermodebear",
+    "Registry ID": "betteranimalsplus:kermodebear",
+    "Class": "its_meow.betteranimalsplus.common.entity.EmptyEntity"
+  },
+  {
+    "Name": "dragongobi",
+    "Registry ID": "aquaticabyssmod:dragongobi",
+    "Class": "racoon.aquaticabyssmod.livingentities.waterbreathing.DragonGoby.EntityCustom"
+  },
+  {
+    "Name": "pajamacardinalfish",
+    "Registry ID": "aquaticabyssmod:pajamacardinalfish",
+    "Class": "racoon.aquaticabyssmod.livingentities.waterbreathing.CardinalFishPajama.EntityCustom"
+  },
+  {
+    "Name": "anemone",
+    "Registry ID": "aquaticabyssmod:anemone",
+    "Class": "racoon.aquaticabyssmod.livingentities.stationary.Anemone.EntityCustom"
+  },
+  {
+    "Name": "greenseaturtle",
+    "Registry ID": "aquaticabyssmod:greenseaturtle",
+    "Class": "racoon.aquaticabyssmod.livingentities.airbreathing.GreenSeaTurtle.EntityCustom"
+  },
+  {
+    "Name": "pufferfish",
+    "Registry ID": "aquaticabyssmod:pufferfish",
+    "Class": "racoon.aquaticabyssmod.livingentities.waterbreathing.Pufferfish.EntityCustom"
+  },
+  {
+    "Name": "mbiupuffer",
+    "Registry ID": "aquaticabyssmod:mbiupuffer",
+    "Class": "racoon.aquaticabyssmod.livingentities.waterbreathing.PufferfishMbu.EntityCustom"
+  },
+  {
+    "Name": "leatherbackseaturtle",
+    "Registry ID": "aquaticabyssmod:leatherbackseaturtle",
+    "Class": "racoon.aquaticabyssmod.livingentities.airbreathing.LeatherbackSeaTurtle.EntityCustom"
+  },
+  {
+    "Name": "deathvalleypupfish",
+    "Registry ID": "aquaticabyssmod:deathvalleypupfish",
+    "Class": "racoon.aquaticabyssmod.livingentities.waterbreathing.DeathValleyPupfish.EntityCustom"
+  },
+  {
+    "Name": "poseidonstatue",
+    "Registry ID": "aquaticabyssmod:poseidonstatue",
+    "Class": "racoon.aquaticabyssmod.livingentities.PoseidonStatue.EntityCustom"
+  },
+  {
+    "Name": "drownedzombie",
+    "Registry ID": "aquaticabyssmod:drownedzombie",
+    "Class": "racoon.aquaticabyssmod.livingentities.DrownedZombie.EntityCustom"
+  },
+  {
+    "Name": "merllagerfarmer",
+    "Registry ID": "aquaticabyssmod:merllagerfarmer",
+    "Class": "racoon.aquaticabyssmod.livingentities.npc.merllagers.MerllagerFarmer.EntityCustom"
+  },
+  {
+    "Name": "poseidon",
+    "Registry ID": "aquaticabyssmod:poseidon",
+    "Class": "racoon.aquaticabyssmod.livingentities.boss.Poseidon.EntityCustom"
+  },
+  {
+    "Name": "seapickle",
+    "Registry ID": "aquaticabyssmod:seapickle",
+    "Class": "racoon.aquaticabyssmod.livingentities.waterbreathing.SeaPickle.EntityCustom"
+  },
+  {
+    "Name": "merllagerfishermen",
+    "Registry ID": "aquaticabyssmod:merllagerfishermen",
+    "Class": "racoon.aquaticabyssmod.livingentities.npc.merllagers.MerllagerFishermen.EntityCustom"
+  },
+  {
+    "Name": "merllagerlibrarian",
+    "Registry ID": "aquaticabyssmod:merllagerlibrarian",
+    "Class": "racoon.aquaticabyssmod.livingentities.npc.merllagers.MerllagerLibrarian.EntityCustom"
+  },
+  {
+    "Name": "merllagerfletcher",
+    "Registry ID": "aquaticabyssmod:merllagerfletcher",
+    "Class": "racoon.aquaticabyssmod.livingentities.npc.merllagers.MerllagerFletcher.EntityCustom"
+  },
+  {
+    "Name": "merllagernitwit",
+    "Registry ID": "aquaticabyssmod:merllagernitwit",
+    "Class": "racoon.aquaticabyssmod.livingentities.npc.merllagers.MerllagerNitwit.EntityCustom"
+  },
+  {
+    "Name": "merllagerpriest",
+    "Registry ID": "aquaticabyssmod:merllagerpriest",
+    "Class": "racoon.aquaticabyssmod.livingentities.npc.merllagers.MerllagerPriest.EntityCustom"
+  },
+  {
+    "Name": "merllagerguard",
+    "Registry ID": "aquaticabyssmod:merllagerguard",
+    "Class": "racoon.aquaticabyssmod.livingentities.npc.merllagers.MerllagerGuard.EntityCustom"
+  },
+  {
+    "Name": "greenspottedpuffer",
+    "Registry ID": "aquaticabyssmod:greenspottedpuffer",
+    "Class": "racoon.aquaticabyssmod.livingentities.waterbreathing.PufferfishGreenSpotted.EntityCustom"
+  },
+  {
+    "Name": "dolphin",
+    "Registry ID": "aquaticabyssmod:dolphin",
+    "Class": "racoon.aquaticabyssmod.livingentities.airbreathing.BottlenoseDolphin.EntityCustom"
+  },
+  {
+    "Name": "spinnerdolphin",
+    "Registry ID": "aquaticabyssmod:spinnerdolphin",
+    "Class": "racoon.aquaticabyssmod.livingentities.airbreathing.SpinnerDolphin.EntityCustom"
+  },
+  {
+    "Name": "salmon",
+    "Registry ID": "aquaticabyssmod:salmon",
+    "Class": "racoon.aquaticabyssmod.livingentities.waterbreathing.Salmon.EntityCustom"
+  },
+  {
+    "Name": "spectacleddolphin",
+    "Registry ID": "aquaticabyssmod:spectacleddolphin",
+    "Class": "racoon.aquaticabyssmod.livingentities.airbreathing.SpectacledPorpoise.EntityCustom"
+  },
+  {
+    "Name": "orca",
+    "Registry ID": "aquaticabyssmod:orca",
+    "Class": "racoon.aquaticabyssmod.livingentities.airbreathing.Orca.EntityCustom"
+  },
+  {
+    "Name": "harborseal",
+    "Registry ID": "aquaticabyssmod:harborseal",
+    "Class": "racoon.aquaticabyssmod.livingentities.airbreathing.HarborSeal.EntityCustom"
+  },
+  {
+    "Name": "vequitadolphin",
+    "Registry ID": "aquaticabyssmod:vequitadolphin",
+    "Class": "racoon.aquaticabyssmod.livingentities.airbreathing.Vaquita.EntityCustom"
+  },
+  {
+    "Name": "mahimahi",
+    "Registry ID": "aquaticabyssmod:mahimahi",
+    "Class": "racoon.aquaticabyssmod.livingentities.waterbreathing.MahiMahi.EntityCustom"
+  },
+  {
+    "Name": "saltwatercroc",
+    "Registry ID": "aquaticabyssmod:saltwatercroc",
+    "Class": "racoon.aquaticabyssmod.livingentities.airbreathing.SaltwaterCroc.EntityCustom"
+  },
+  {
+    "Name": "lancetfish",
+    "Registry ID": "aquaticabyssmod:lancetfish",
+    "Class": "racoon.aquaticabyssmod.livingentities.waterbreathing.LancetFish.EntityCustom"
+  },
+  {
+    "Name": "sunconure",
+    "Registry ID": "aquaticabyssmod:sunconure",
+    "Class": "racoon.aquaticabyssmod.livingentities.birds.SunConure.EntityCustom"
+  },
+  {
+    "Name": "mississippimapturtle",
+    "Registry ID": "aquaticabyssmod:mississippimapturtle",
+    "Class": "racoon.aquaticabyssmod.livingentities.land.MississippiMapTurtle.EntityCustom"
+  },
+  {
+    "Name": "redearedslider",
+    "Registry ID": "aquaticabyssmod:redearedslider",
+    "Class": "racoon.aquaticabyssmod.livingentities.land.RedEaredSlider.EntityCustom"
+  },
+  {
+    "Name": "blackandwhiteanenomefish",
+    "Registry ID": "aquaticabyssmod:blackandwhiteanenomefish",
+    "Class": "racoon.aquaticabyssmod.livingentities.waterbreathing.AnenomeFishBlackAndWhite.EntityCustom"
+  },
+  {
+    "Name": "pacificmolecrab",
+    "Registry ID": "aquaticabyssmod:pacificmolecrab",
+    "Class": "racoon.aquaticabyssmod.livingentities.land.PacificMoleCrab.EntityCustom"
+  },
+  {
+    "Name": "sanddollarmob",
+    "Registry ID": "aquaticabyssmod:sanddollarmob",
+    "Class": "racoon.aquaticabyssmod.items.SandDollarMob.EntityCustom"
+  },
+  {
+    "Name": "redseastarmob",
+    "Registry ID": "aquaticabyssmod:redseastarmob",
+    "Class": "racoon.aquaticabyssmod.items.SeaStarMob.EntityCustom"
+  },
+  {
+    "Name": "redseastarmod",
+    "Registry ID": "aquaticabyssmod:redseastarmod",
+    "Class": "racoon.aquaticabyssmod.items.RedSeaStarMod.EntityCustom"
+  },
+  {
+    "Name": "yellowseastarmob",
+    "Registry ID": "aquaticabyssmod:yellowseastarmob",
+    "Class": "racoon.aquaticabyssmod.items.YellowSeaStarMob.EntityCustom"
+  },
+  {
+    "Name": "atlanticpuffin",
+    "Registry ID": "aquaticabyssmod:atlanticpuffin",
+    "Class": "racoon.aquaticabyssmod.livingentities.birds.AtlanticPuffin.EntityCustom"
+  },
+  {
+    "Name": "kelpalo",
+    "Registry ID": "aquaticabyssmod:kelpalo",
+    "Class": "racoon.aquaticabyssmod.livingentities.land.Kelpalo.EntityCustom"
+  },
+  {
+    "Name": "baikalseal",
+    "Registry ID": "aquaticabyssmod:baikalseal",
+    "Class": "racoon.aquaticabyssmod.livingentities.airbreathing.BaikalSeal.EntityCustom"
+  },
+  {
+    "Name": "halibut",
+    "Registry ID": "aquaticabyssmod:halibut",
+    "Class": "racoon.aquaticabyssmod.livingentities.waterbreathing.Halibut.EntityCustom"
+  },
+  {
+    "Name": "eyelashpitviper",
+    "Registry ID": "aquaticabyssmod:eyelashpitviper",
+    "Class": "racoon.aquaticabyssmod.livingentities.land.EyeLashPitViper.EntityCustom"
+  },
+  {
+    "Name": "vampyresquid",
+    "Registry ID": "aquaticabyssmod:vampyresquid",
+    "Class": "racoon.aquaticabyssmod.livingentities.waterbreathing.VampyreSquid.EntityCustom"
+  },
+  {
+    "Name": "nurseshark",
+    "Registry ID": "aquaticabyssmod:nurseshark",
+    "Class": "racoon.aquaticabyssmod.livingentities.waterbreathing.NurseShark.EntityCustom"
+  },
+  {
+    "Name": "zebrashark1",
+    "Registry ID": "aquaticabyssmod:zebrashark1",
+    "Class": "racoon.aquaticabyssmod.livingentities.waterbreathing.ZebraShark.EntityCustom"
+  },
+  {
+    "Name": "sandtigershark",
+    "Registry ID": "aquaticabyssmod:sandtigershark",
+    "Class": "racoon.aquaticabyssmod.livingentities.waterbreathing.SandTigerShark.EntityCustom"
+  },
+  {
+    "Name": "lookdownfish",
+    "Registry ID": "aquaticabyssmod:lookdownfish",
+    "Class": "racoon.aquaticabyssmod.livingentities.waterbreathing.LookdownFish.EntityCustom"
+  },
+  {
+    "Name": "bangaiicardinalfish",
+    "Registry ID": "aquaticabyssmod:bangaiicardinalfish",
+    "Class": "racoon.aquaticabyssmod.livingentities.waterbreathing.CardinalFishBanggai.EntityCustom"
+  },
+  {
+    "Name": "greenmoray",
+    "Registry ID": "aquaticabyssmod:greenmoray",
+    "Class": "racoon.aquaticabyssmod.livingentities.waterbreathing.GreenMoray.EntityCustom"
+  },
+  {
+    "Name": "clarksanemonefish",
+    "Registry ID": "aquaticabyssmod:clarksanemonefish",
+    "Class": "racoon.aquaticabyssmod.livingentities.waterbreathing.AnemoneFishClarks.EntityCustom"
+  },
+  {
+    "Name": "arapaimagigas",
+    "Registry ID": "aquaticabyssmod:arapaimagigas",
+    "Class": "racoon.aquaticabyssmod.livingentities.waterbreathing.ArapaimaGigas.EntityCustom"
+  },
+  {
+    "Name": "arawona",
+    "Registry ID": "aquaticabyssmod:arawona",
+    "Class": "racoon.aquaticabyssmod.livingentities.waterbreathing.Arowana.EntityCustom"
+  },
+  {
+    "Name": "cod",
+    "Registry ID": "aquaticabyssmod:cod",
+    "Class": "racoon.aquaticabyssmod.livingentities.waterbreathing.Cod.EntityCustom"
+  },
+  {
+    "Name": "cattleegret",
+    "Registry ID": "aquaticabyssmod:cattleegret",
+    "Class": "racoon.aquaticabyssmod.livingentities.birds.CattleEgret.EntityCustom"
+  },
+  {
+    "Name": "wedgetailtriggerfish",
+    "Registry ID": "aquaticabyssmod:wedgetailtriggerfish",
+    "Class": "racoon.aquaticabyssmod.livingentities.waterbreathing.WedgeTailTriggerfish.EntityCustom"
+  },
+  {
+    "Name": "nautilusgolem",
+    "Registry ID": "aquaticabyssmod:nautilusgolem",
+    "Class": "racoon.aquaticabyssmod.livingentities.land.NautilusGolem.EntityCustom"
+  },
+  {
+    "Name": "sealily",
+    "Registry ID": "aquaticabyssmod:sealily",
+    "Class": "racoon.aquaticabyssmod.livingentities.stationary.SeaLily.EntityCustom"
+  },
+  {
+    "Name": "aggregatinganenome",
+    "Registry ID": "aquaticabyssmod:aggregatinganenome",
+    "Class": "racoon.aquaticabyssmod.livingentities.stationary.AggregatingAnenome.EntityCustom"
+  },
+  {
+    "Name": "waratahanemone",
+    "Registry ID": "aquaticabyssmod:waratahanemone",
+    "Class": "racoon.aquaticabyssmod.livingentities.stationary.WaratahAnemone.EntityCustom"
+  },
+  {
+    "Name": "orangeclownfish",
+    "Registry ID": "aquaticabyssmod:orangeclownfish",
+    "Class": "racoon.aquaticabyssmod.livingentities.waterbreathing.AnemoneFishClown.EntityCustom"
+  },
+  {
+    "Name": "bluetang",
+    "Registry ID": "aquaticabyssmod:bluetang",
+    "Class": "racoon.aquaticabyssmod.livingentities.waterbreathing.TangBlue.EntityCustom"
+  },
+  {
+    "Name": "goddesspoliahu",
+    "Registry ID": "aquaticabyssmod:goddesspoliahu",
+    "Class": "racoon.aquaticabyssmod.livingentities.boss.GoddessPoliahu.EntityCustom"
+  },
+  {
+    "Name": "kanakahaumoo",
+    "Registry ID": "aquaticabyssmod:kanakahaumoo",
+    "Class": "racoon.aquaticabyssmod.livingentities.KanakaHauMoO.EntityCustom"
+  },
+  {
+    "Name": "wobbegong",
+    "Registry ID": "aquaticabyssmod:wobbegong",
+    "Class": "racoon.aquaticabyssmod.livingentities.waterbreathing.Wobbegong.EntityCustom"
+  },
+  {
+    "Name": "powderbluetang",
+    "Registry ID": "aquaticabyssmod:powderbluetang",
+    "Class": "racoon.aquaticabyssmod.livingentities.waterbreathing.TangPowderBlue.EntityCustom"
+  },
+  {
+    "Name": "royalgramma",
+    "Registry ID": "aquaticabyssmod:royalgramma",
+    "Class": "racoon.aquaticabyssmod.livingentities.waterbreathing.RoyalGramma.EntityCustom"
+  },
+  {
+    "Name": "catalinagoby",
+    "Registry ID": "aquaticabyssmod:catalinagoby",
+    "Class": "racoon.aquaticabyssmod.livingentities.waterbreathing.CatalinaGoby.EntityCustom"
+  },
+  {
+    "Name": "arapaimaagassizii",
+    "Registry ID": "aquaticabyssmod:arapaimaagassizii",
+    "Class": "racoon.aquaticabyssmod.livingentities.waterbreathing.ArapaimaAgassizii.EntityCustom"
+  },
+  {
+    "Name": "gardeneel",
+    "Registry ID": "aquaticabyssmod:gardeneel",
+    "Class": "racoon.aquaticabyssmod.livingentities.waterbreathing.GardenEel.EntityCustom"
+  },
+  {
+    "Name": "commonguitarfish",
+    "Registry ID": "aquaticabyssmod:commonguitarfish",
+    "Class": "racoon.aquaticabyssmod.livingentities.waterbreathing.Guitarfish.EntityCustom"
+  },
+  {
+    "Name": "neontetra",
+    "Registry ID": "aquaticabyssmod:neontetra",
+    "Class": "racoon.aquaticabyssmod.livingentities.waterbreathing.TetraNeon.EntityCustom"
+  },
+  {
+    "Name": "darwin",
+    "Registry ID": "aquaticabyssmod:darwin",
+    "Class": "racoon.aquaticabyssmod.livingentities.npc.Darwin.EntityCustom"
+  },
+  {
+    "Name": "blackneontetra",
+    "Registry ID": "aquaticabyssmod:blackneontetra",
+    "Class": "racoon.aquaticabyssmod.livingentities.waterbreathing.TetraBlackNeon.EntityCustom"
+  },
+  {
+    "Name": "CongoTetra",
+    "Registry ID": "aquaticabyssmod:congotetra",
+    "Class": "racoon.aquaticabyssmod.livingentities.waterbreathing.TetraCongo.EntityCustom"
+  },
+  {
+    "Name": "mexicantetra",
+    "Registry ID": "aquaticabyssmod:mexicantetra",
+    "Class": "racoon.aquaticabyssmod.livingentities.waterbreathing.TetraMexican.EntityCustom"
+  },
+  {
+    "Name": "mexicancavetetra",
+    "Registry ID": "aquaticabyssmod:mexicancavetetra",
+    "Class": "racoon.aquaticabyssmod.livingentities.waterbreathing.TetraMexicanCave.EntityCustom"
+  },
+  {
+    "Name": "leaffish",
+    "Registry ID": "aquaticabyssmod:leaffish",
+    "Class": "racoon.aquaticabyssmod.livingentities.waterbreathing.LeafFish.EntityCustom"
+  },
+  {
+    "Name": "leafyseadragon",
+    "Registry ID": "aquaticabyssmod:leafyseadragon",
+    "Class": "racoon.aquaticabyssmod.livingentities.waterbreathing.LeafySeaDragon.EntityCustom"
+  },
+  {
+    "Name": "reddiscus",
+    "Registry ID": "aquaticabyssmod:reddiscus",
+    "Class": "racoon.aquaticabyssmod.livingentities.waterbreathing.DiscusRed.EntityCustom"
+  },
+  {
+    "Name": "alenquerdiscus",
+    "Registry ID": "aquaticabyssmod:alenquerdiscus",
+    "Class": "racoon.aquaticabyssmod.livingentities.waterbreathing.DiscusAlenquer.EntityCustom"
+  },
+  {
+    "Name": "bluediamonddiscus",
+    "Registry ID": "aquaticabyssmod:bluediamonddiscus",
+    "Class": "racoon.aquaticabyssmod.livingentities.waterbreathing.DiscusBlueDiamond.EntityCustom"
+  },
+  {
+    "Name": "agasizziicichlid",
+    "Registry ID": "aquaticabyssmod:agasizziicichlid",
+    "Class": "racoon.aquaticabyssmod.livingentities.waterbreathing.AgassiziiCichlid.EntityCustom"
+  },
+  {
+    "Name": "weedyseadragon",
+    "Registry ID": "aquaticabyssmod:weedyseadragon",
+    "Class": "racoon.aquaticabyssmod.livingentities.waterbreathing.WeedySeaDragon.EntityCustom"
+  },
+  {
+    "Name": "anglerfish",
+    "Registry ID": "aquaticabyssmod:anglerfish",
+    "Class": "racoon.aquaticabyssmod.livingentities.waterbreathing.AnglerFish.EntityCustom"
+  },
+  {
+    "Name": "japanesemackrel",
+    "Registry ID": "aquaticabyssmod:japanesemackrel",
+    "Class": "racoon.aquaticabyssmod.livingentities.waterbreathing.JapaneseMackrel.EntityCustom"
+  },
+  {
+    "Name": "pinksalmon",
+    "Registry ID": "aquaticabyssmod:pinksalmon",
+    "Class": "racoon.aquaticabyssmod.livingentities.waterbreathing.PinkSalmon.EntityCustom"
+  },
+  {
+    "Name": "kea",
+    "Registry ID": "aquaticabyssmod:kea",
+    "Class": "racoon.aquaticabyssmod.livingentities.birds.Kea.EntityCustom"
+  },
+  {
+    "Name": "emeraldtoucanet",
+    "Registry ID": "aquaticabyssmod:emeraldtoucanet",
+    "Class": "racoon.aquaticabyssmod.livingentities.birds.EmeraldToucanet.EntityCustom"
+  },
+  {
+    "Name": "skua",
+    "Registry ID": "aquaticabyssmod:skua",
+    "Class": "racoon.aquaticabyssmod.livingentities.birds.Skua.EntityCustom"
+  },
+  {
+    "Name": "drownedzombiecaptain",
+    "Registry ID": "aquaticabyssmod:drownedzombiecaptain",
+    "Class": "racoon.aquaticabyssmod.livingentities.DrownedZombieCaptain.EntityCustom"
+  },
+  {
+    "Name": "articsculpin",
+    "Registry ID": "aquaticabyssmod:articsculpin",
+    "Class": "racoon.aquaticabyssmod.livingentities.waterbreathing.ArcticSculpin.EntityCustom"
+  },
+  {
+    "Name": "bluegill",
+    "Registry ID": "aquaticabyssmod:bluegill",
+    "Class": "racoon.aquaticabyssmod.livingentities.waterbreathing.BlueGill.EntityCustom"
+  },
+  {
+    "Name": "bumblebeegoby",
+    "Registry ID": "aquaticabyssmod:bumblebeegoby",
+    "Class": "racoon.aquaticabyssmod.livingentities.waterbreathing.BumbleBeeFish.EntityCustom"
+  },
+  {
+    "Name": "oarfish",
+    "Registry ID": "aquaticabyssmod:oarfish",
+    "Class": "racoon.aquaticabyssmod.livingentities.waterbreathing.Oarfish.EntityCustom"
+  },
+  {
+    "Name": "abyssager",
+    "Registry ID": "aquaticabyssmod:abyssager",
+    "Class": "racoon.aquaticabyssmod.livingentities.abyssagers.Abyssager.EntityCustom"
+  },
+  {
+    "Name": "abyssagerchief",
+    "Registry ID": "aquaticabyssmod:abyssagerchief",
+    "Class": "racoon.aquaticabyssmod.livingentities.abyssagers.AbyssagerChief.EntityCustom"
+  },
+  {
+    "Name": "abyssalguardian",
+    "Registry ID": "aquaticabyssmod:abyssalguardian",
+    "Class": "racoon.aquaticabyssmod.livingentities.waterbreathing.DeepGuardian.EntityCustom"
+  },
+  {
+    "Name": "europeancatfish",
+    "Registry ID": "aquaticabyssmod:europeancatfish",
+    "Class": "racoon.aquaticabyssmod.livingentities.waterbreathing.EuropeanCatfish.EntityCustom"
+  },
+  {
+    "Name": "figureeightpuffer",
+    "Registry ID": "aquaticabyssmod:figureeightpuffer",
+    "Class": "racoon.aquaticabyssmod.livingentities.waterbreathing.PufferfishFigureEight.EntityCustom"
+  },
+  {
+    "Name": "beachgoer",
+    "Registry ID": "aquaticabyssmod:beachgoer",
+    "Class": "racoon.aquaticabyssmod.livingentities.npc.BeachGoer.EntityCustom"
+  },
+  {
+    "Name": "ladybeachgoer",
+    "Registry ID": "aquaticabyssmod:ladybeachgoer",
+    "Class": "racoon.aquaticabyssmod.livingentities.npc.LadyBeachGoer.EntityCustom"
+  },
+  {
+    "Name": "sailor",
+    "Registry ID": "aquaticabyssmod:sailor",
+    "Class": "racoon.aquaticabyssmod.livingentities.npc.Sailor.EntityCustom"
+  },
+  {
+    "Name": "makoshark",
+    "Registry ID": "aquaticabyssmod:makoshark",
+    "Class": "racoon.aquaticabyssmod.livingentities.waterbreathing.MakoShark.EntityCustom"
+  },
+  {
+    "Name": "indianmudmoray",
+    "Registry ID": "aquaticabyssmod:indianmudmoray",
+    "Class": "racoon.aquaticabyssmod.livingentities.waterbreathing.IndianMudMoray.EntityCustom"
+  },
+  {
+    "Name": "snowflakemoray",
+    "Registry ID": "aquaticabyssmod:snowflakemoray",
+    "Class": "racoon.aquaticabyssmod.livingentities.waterbreathing.SnowflakeMoray.EntityCustom"
+  },
+  {
+    "Name": "pinkseathroughfantasia",
+    "Registry ID": "aquaticabyssmod:pinkseathroughfantasia",
+    "Class": "racoon.aquaticabyssmod.livingentities.waterbreathing.PinkSeeThroughFantasia.EntityCustom"
+  },
+  {
+    "Name": "electricyellowcichlid",
+    "Registry ID": "aquaticabyssmod:electricyellowcichlid",
+    "Class": "racoon.aquaticabyssmod.livingentities.waterbreathing.CichlidElectricYellow.EntityCustom"
+  },
+  {
+    "Name": "bigmouthhapcichlid",
+    "Registry ID": "aquaticabyssmod:bigmouthhapcichlid",
+    "Class": "racoon.aquaticabyssmod.livingentities.waterbreathing.CichlidBigMouthHap.EntityCustom"
+  },
+  {
+    "Name": "fairycichlid",
+    "Registry ID": "aquaticabyssmod:fairycichlid",
+    "Class": "racoon.aquaticabyssmod.livingentities.waterbreathing.CichlidFairy.EntityCustom"
+  },
+  {
+    "Name": "redrubycichlid",
+    "Registry ID": "aquaticabyssmod:redrubycichlid",
+    "Class": "racoon.aquaticabyssmod.livingentities.waterbreathing.CichlidRedRuby.EntityCustom"
+  },
+  {
+    "Name": "redcoralfan",
+    "Registry ID": "aquaticabyssmod:redcoralfan",
+    "Class": "racoon.aquaticabyssmod.livingentities.stationary.coral.RedCoralFan.EntityCustom"
+  },
+  {
+    "Name": "bluecoralfan",
+    "Registry ID": "aquaticabyssmod:bluecoralfan",
+    "Class": "racoon.aquaticabyssmod.livingentities.stationary.coral.BlueCoralFan.EntityCustom"
+  },
+  {
+    "Name": "yellowcoralfan",
+    "Registry ID": "aquaticabyssmod:yellowcoralfan",
+    "Class": "racoon.aquaticabyssmod.livingentities.stationary.coral.YellowCoralFan.EntityCustom"
+  },
+  {
+    "Name": "purplecoralfan",
+    "Registry ID": "aquaticabyssmod:purplecoralfan",
+    "Class": "racoon.aquaticabyssmod.livingentities.stationary.coral.PurpleCoralFan.EntityCustom"
+  },
+  {
+    "Name": "pinkcoralfan",
+    "Registry ID": "aquaticabyssmod:pinkcoralfan",
+    "Class": "racoon.aquaticabyssmod.livingentities.stationary.coral.PinkCoralFan.EntityCustom"
+  },
+  {
+    "Name": "royalcoralfan",
+    "Registry ID": "aquaticabyssmod:royalcoralfan",
+    "Class": "racoon.aquaticabyssmod.livingentities.stationary.coral.RoyalCoralFan.EntityCustom"
+  },
+  {
+    "Name": "helioporacoralfan",
+    "Registry ID": "aquaticabyssmod:helioporacoralfan",
+    "Class": "racoon.aquaticabyssmod.livingentities.stationary.coral.HelioPoraCoralFan.EntityCustom"
+  },
+  {
+    "Name": "elkhorncoralfan",
+    "Registry ID": "aquaticabyssmod:elkhorncoralfan",
+    "Class": "racoon.aquaticabyssmod.livingentities.stationary.coral.ElkhornCoralFan.EntityCustom"
+  },
+  {
+    "Name": "bubblecoralfan",
+    "Registry ID": "aquaticabyssmod:bubblecoralfan",
+    "Class": "racoon.aquaticabyssmod.livingentities.stationary.coral.BubbleCoralFan.EntityCustom"
+  },
+  {
+    "Name": "flowerpotcoralfan",
+    "Registry ID": "aquaticabyssmod:flowerpotcoralfan",
+    "Class": "racoon.aquaticabyssmod.livingentities.stationary.coral.FlowerPotCoralFan.EntityCustom"
+  },
+  {
+    "Name": "greatstarcoralfan",
+    "Registry ID": "aquaticabyssmod:greatstarcoralfan",
+    "Class": "racoon.aquaticabyssmod.livingentities.stationary.coral.GreatStarCoralFan.EntityCustom"
+  },
+  {
+    "Name": "slendershellmob",
+    "Registry ID": "aquaticabyssmod:slendershellmob",
+    "Class": "racoon.aquaticabyssmod.items.SlenderShellMob.EntityCustom"
+  },
+  {
+    "Name": "speckledshellmob",
+    "Registry ID": "aquaticabyssmod:speckledshellmob",
+    "Class": "racoon.aquaticabyssmod.items.SpeckledShellMob.EntityCustom"
+  },
+  {
+    "Name": "fancyshellmob",
+    "Registry ID": "aquaticabyssmod:fancyshellmob",
+    "Class": "racoon.aquaticabyssmod.items.FancyShellMob.EntityCustom"
+  },
+  {
+    "Name": "braincoralfan",
+    "Registry ID": "aquaticabyssmod:braincoralfan",
+    "Class": "racoon.aquaticabyssmod.livingentities.stationary.coral.BrainCoralFan.EntityCustom"
+  },
+  {
+    "Name": "ambphibousboat",
+    "Registry ID": "aquaticabyssmod:ambphibousboat",
+    "Class": "racoon.aquaticabyssmod.items.AmbphibousBoat.EntityCustom"
+  },
+  {
+    "Name": "lakebaikalspongefan",
+    "Registry ID": "aquaticabyssmod:lakebaikalspongefan",
+    "Class": "racoon.aquaticabyssmod.livingentities.stationary.coral.LakeBaikalSpongeFan.EntityCustom"
+  },
+  {
+    "Name": "spongefan",
+    "Registry ID": "aquaticabyssmod:spongefan",
+    "Class": "racoon.aquaticabyssmod.livingentities.stationary.coral.SpongeFan.EntityCustom"
+  },
+  {
+    "Name": "tablecoralfan",
+    "Registry ID": "aquaticabyssmod:tablecoralfan",
+    "Class": "racoon.aquaticabyssmod.livingentities.stationary.coral.TableCoralFan.EntityCustom"
+  },
+  {
+    "Name": "fungalzombie",
+    "Registry ID": "byg:fungalzombie",
+    "Class": "net.mcreator.byg.MCreatorFungalzombie.EntityCustom"
+  },
+  {
+    "Name": "petrifiedzombie",
+    "Registry ID": "byg:petrifiedzombie",
+    "Class": "net.mcreator.byg.MCreatorPetrifiedzombie.EntityCustom"
+  },
+  {
+    "Name": "petrifiedspider",
+    "Registry ID": "byg:petrifiedspider",
+    "Class": "net.mcreator.byg.MCreatorPetrifiedspider.EntityCustom"
+  },
+  {
+    "Name": "kiwibird",
+    "Registry ID": "byg:kiwibird",
+    "Class": "net.mcreator.byg.MCreatorKiwibird.EntityCustom"
+  },
+  {
+    "Name": "ivorywoodpecker",
+    "Registry ID": "byg:ivorywoodpecker",
+    "Class": "net.mcreator.byg.MCreatorIvorywoodpecker.EntityCustom"
+  }
+]

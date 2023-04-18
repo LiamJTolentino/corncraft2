@@ -1,0 +1,194 @@
+{
+	"name":"compactmachines3:dank_null_panel_3",
+	"target-item":"danknull:dank_null_panel_3",
+	"target-count":1,
+	"target-meta":0,
+	"target-nbt":"",
+
+	"symmetrical":true,
+
+	"catalyst":"minecraft:gold_ingot",
+	"catalyst-meta":0,
+	"duration":100,
+
+  
+  "input-types": {
+    "a": {
+      "id": "minecraft:gold_block",
+      "meta": 0
+    },
+    "b": {
+      "id": "minecraft:coal_block",
+      "meta": 0
+    },
+    "c": {
+      "id": "minecraft:stained_glass_pane",
+      "meta": 4
+    }
+  },
+  "shape": [
+    [
+      [
+        "a"
+      ],
+      [
+        "b"
+      ],
+      [
+        "b"
+      ],
+      [
+        "b"
+      ],
+      [
+        "b"
+      ],
+      [
+        "b"
+      ],
+      [
+        "a"
+      ]
+    ],
+    [
+      [
+        "b"
+      ],
+      [
+        "c"
+      ],
+      [
+        "c"
+      ],
+      [
+        "c"
+      ],
+      [
+        "c"
+      ],
+      [
+        "c"
+      ],
+      [
+        "b"
+      ]
+    ],
+    [
+      [
+        "b"
+      ],
+      [
+        "c"
+      ],
+      [
+        "c"
+      ],
+      [
+        "c"
+      ],
+      [
+        "c"
+      ],
+      [
+        "c"
+      ],
+      [
+        "b"
+      ]
+    ],
+    [
+      [
+        "b"
+      ],
+      [
+        "c"
+      ],
+      [
+        "c"
+      ],
+      [
+        "c"
+      ],
+      [
+        "c"
+      ],
+      [
+        "c"
+      ],
+      [
+        "b"
+      ]
+    ],
+    [
+      [
+        "b"
+      ],
+      [
+        "c"
+      ],
+      [
+        "c"
+      ],
+      [
+        "c"
+      ],
+      [
+        "c"
+      ],
+      [
+        "c"
+      ],
+      [
+        "b"
+      ]
+    ],
+    [
+      [
+        "b"
+      ],
+      [
+        "c"
+      ],
+      [
+        "c"
+      ],
+      [
+        "c"
+      ],
+      [
+        "c"
+      ],
+      [
+        "c"
+      ],
+      [
+        "b"
+      ]
+    ],
+    [
+      [
+        "a"
+      ],
+      [
+        "b"
+      ],
+      [
+        "b"
+      ],
+      [
+        "b"
+      ],
+      [
+        "b"
+      ],
+      [
+        "b"
+      ],
+      [
+        "a"
+      ]
+    ]
+  ]
+
+
+}

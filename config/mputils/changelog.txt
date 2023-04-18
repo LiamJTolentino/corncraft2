@@ -1,0 +1,6 @@
+Changelog
+2.0.2
+
+Added the following mods:
+- Custom Main Menu
+- The Mighty Architect

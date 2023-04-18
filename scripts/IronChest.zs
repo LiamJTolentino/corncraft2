@@ -1,0 +1,2 @@
+
+recipes.removeByRegex("ironchest:shulker.*");

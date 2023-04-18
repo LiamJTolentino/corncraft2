@@ -1,0 +1,198 @@
+{
+    "images":
+    {
+        "logo":
+        {
+            "image" : "custommainmenu:textures/gui/logo.png",
+            "posX" : -256,
+            "posY" : -256,
+            "width" : 512,
+            "height" : 512,
+            "alignment" : "center"
+        }
+    },
+    
+    "buttons":
+    {
+        "singleplayer":
+        {
+            "text" : "",
+            "tooltip" : "Play by yourself",
+            "texture" : "custommainmenu:textures/gui/singleplayer.png",
+            "posX" : -200,
+            "posY" : 40,
+            "width" : 149,
+            "height" : 109,
+            "imageWidth" : 299,
+            "imageHeight" : 219,
+            "hoverSound" : "block.grass.hit",
+            "pressSound" : "entity.player.attack.sweep",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+        
+        "multiplayer":
+        {
+            "text" : "",
+            "tooltip" : "Play with other people",
+            "texture" : "custommainmenu:textures/gui/multiplayer.png",
+            "posX" : 70,
+            "posY" : 40,
+            "width" : 147,
+            "height" : 102,
+            "imageWidth" : 295,
+            "imageHeight" : 204,
+            "hoverSound" : "block.grass.hit",
+            "pressSound" : "entity.player.attack.sweep",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+        
+        "mods":
+        {
+            "text" : "",
+            "tooltip" : "See a list of installed mods",
+            "texture" : "custommainmenu:textures/gui/mods.png",
+            "posX" : 110,
+            "posY" : 145,
+            "width" : 90,
+            "height" : 60,
+            "imageWidth" : 243,
+            "imageHeight" : 160,
+            "hoverSound" : "block.grass.hit",
+            "pressSound" : "entity.player.attack.sweep",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        },
+            
+        "options":
+        {
+            "text" : "",
+            "tooltip" : "Change your game settings",
+            "texture" : "custommainmenu:textures/gui/options.png",
+            "posX" : 90,
+            "posY" : 200,
+            "width" : 89,
+            "height" : 62,
+            "imageWidth" : 238,
+            "imageHeight" : 166,
+            "hoverSound" : "block.grass.hit",
+            "pressSound" : "entity.player.attack.sweep",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+        
+        "quit":
+        {
+            "text" : "",
+            "tooltip" : "Leave the game",
+            "texture" : "custommainmenu:textures/gui/quit.png",
+            "posX" : -175,
+            "posY" : 200,
+            "width" : 89,
+            "height" : 62,
+            "imageWidth" : 238,
+            "imageHeight" : 166,
+            "hoverSound" : "block.grass.hit",
+            "pressSound" : "entity.player.attack.sweep",
+            "action" : 
+            {
+                "type" : "quit"
+            }
+        },
+        
+        "language":
+        {
+            "text" : "",
+            "tooltip" : "Change your language",
+            "texture" : "custommainmenu:textures/gui/lang.png",
+            "posX" : -200,
+            "posY" : 145,
+            "width" : 89,
+            "height" : 62,
+            "imageWidth" : 238,
+            "imageHeight" : 166,
+            "hoverSound" : "block.grass.hit",
+            "pressSound" : "entity.player.attack.sweep",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "languages"
+            }
+        },
+        
+        "refresh":
+        {
+            "text" : "",
+            "texture" : "custommainmenu:textures/gui/refresh.png",
+            "posX" : -240,
+            "posY" : -90,
+            "width" : 490,
+            "height" : 145,
+            "imageWidth" : 980,
+            "imageHeight" : 291,
+            "hoverSound" : "block.grass.hit",
+            "pressSound" : "entity.player.attack.sweep",
+            "action" : 
+            {
+                "type" : "refresh"
+            }
+        }
+    },
+    
+    "labels":
+    {
+        "mojang":
+        {
+            "text" : "Copyright Mojang AB. Do not distribute!",
+            "hoverText" : "§nCopyright Mojang AB. Do not distribute!",
+            "posX" : -197,
+            "posY" : -10,
+            "color" : -1,
+            "alignment" : "bottom_right",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "credits"
+            }
+        },
+        
+        "fml":
+        {
+            "text" : "",
+            "posX" : 2,
+            "posY" : -50,
+            "color" : -1,
+            "alignment" : "bottom_left"
+        }
+    },
+    
+    "other":
+    {
+        "splash-text":
+        {
+            "posX" : 220,
+            "posY" : 160,
+            "color" : -256,
+            "alignment" : "top_center",
+            "texts" : "file:minecraft:texts/splashes.txt"
+        },
+        
+        "background":
+        {
+            "image" : "custommainmenu:textures/gui/background.png"
+        }
+    }
+}

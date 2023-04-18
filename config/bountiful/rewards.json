@@ -1,0 +1,130 @@
+[
+  {
+    "content": "minecraft:gold_ingot",
+    "unitWorth": 50,
+    "weight": 100,
+    "amount": {
+      "min": 1,
+      "max": 27
+    }
+  },
+  {
+    "content": "minecraft:gold_block",
+    "unitWorth": 450,
+    "weight": 100,
+    "amount": {
+      "min": 1,
+      "max": 9
+    }
+  },
+  {
+    "content": "minecraft:emerald",
+    "unitWorth": 100,
+    "weight": 100,
+    "amount": {
+      "min": 1,
+      "max": 27
+    }
+  },
+  {
+    "content": "minecraft:emerald_block",
+    "unitWorth": 900,
+    "weight": 100,
+    "amount": {
+      "min": 1,
+      "max": 9
+    }
+  },
+  {
+    "content": "minecraft:diamond",
+    "unitWorth": 2400,
+    "weight": 10,
+    "amount": {
+      "min": 1,
+      "max": 16
+    }
+  },
+  {
+    "content": "minecraft:iron_sword",
+    "unitWorth": 750,
+    "weight": 5,
+    "nbt_data": "{display:{Lore:[\"Sharper than Usual.\"]},ench:[{id:16,lvl:1}]}",
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "minecraft:leather_helmet",
+    "unitWorth": 500,
+    "weight": 5,
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "minecraft:leather_boots",
+    "unitWorth": 450,
+    "weight": 5,
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "minecraft:iron_chestplate",
+    "unitWorth": 1800,
+    "weight": 5,
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "minecraft:golden_chestplate",
+    "unitWorth": 1200,
+    "weight": 5,
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "minecraft:bow",
+    "unitWorth": 1300,
+    "weight": 10,
+    "nbt_data": "{ench:[{id:48,lvl:2}]}",
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "danknull:dank_null_4",
+    "unitWorth": 108000,
+    "weight": 2,
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "danknull:dank_null_5",
+    "unitWorth": 129600,
+    "weight": 1,
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "minecraft:totem_of_undying",
+    "unitWorth": 129600,
+    "weight": 1,
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  }
+]

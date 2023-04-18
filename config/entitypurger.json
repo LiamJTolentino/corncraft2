@@ -1,0 +1,45 @@
+{
+    "version": "1.2.3",
+    "logging": false,
+    "whitelist": ["net.minecraft.entity.item.EntityXPOrb",
+                    "net.minecraft.entity.item.EntityArmorStand",
+                    "net.minecraft.entity.item.EntityItem",
+                    "racoon.aquaticabyssmod.livingentities.stationary.*",
+                    "meldexun.better_diving.entity.*"],
+    "blacklist": [],
+    "defaultThreshold": 30,
+    "checkTimeSeconds": 20,
+    "purgeTamedEntities": false,
+    "blacklistedChunksNearPlayer": 2,
+    "claimedChunksAreBlacklisted": false,
+    "entitySettings": [
+        {
+            "entityId": "net.minecraft.entity.item.EntityXPOrb",
+            "threshold": 100,
+            "lifetime": 120,
+            "overrideClaimedChunk": true,
+            "overridePlayerChunk": true
+        },
+        {
+            "entityId": "net.minecraft.entity.item.EntityItem",
+            "threshold": 100,
+            "lifetime": 120,
+            "overrideClaimedChunk": true,
+            "overridePlayerChunk": true
+        },
+        {
+            "entityId": "racoon.aquaticabyssmod.livingentities.stationary.*",
+            "threshold": 50,
+            "lifetime": 120,
+            "overrideClaimedChunk": true,
+            "overridePlayerChunk": true
+        },
+        {
+            "entityId": "meldexun.better_diving.entity.*",
+            "threshold": 50,
+            "lifetime": 120,
+            "overrideClaimedChunk": true,
+            "overridePlayerChunk": true
+        }
+    ]
+}
